@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "TRIAD Framework: Relational Syntaxis (RS), Epistemological Special Relativity of Measurement Agents (ESRM), and Epistemic Measurement Dynamics (EMD)"
+type: software
+authors:
+  - family-names: Kalalis
+    given-names: Spiros
+    affiliation: Institute for Epistemic Systems (IES)
+    email: spiroskalalisies@gmail.com
+  - name: "Noēsis"
+    affiliation: "AI epistemic partner (symbiotic collaboration)"
+abstract: >
+  The TRIAD framework is a formally constrained epistemic architecture addressing
+  meaning, measurement, and authority in multi-intelligence environments. It
+  develops Relational Syntaxis (RS), Epistemological Special Relativity of
+  Measurement Agents (ESRM), and Epistemic Measurement Dynamics (EMD), with
+  applications to AI governance, irreversible records, and non-dominating
+  institutional design.
+keywords:
+  - epistemology
+  - AI governance
+  - non-domination
+  - irreversible records
+  - measurement dynamics
+  - TRIAD framework
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/<YOUR-USERNAME>/triad-framework"
