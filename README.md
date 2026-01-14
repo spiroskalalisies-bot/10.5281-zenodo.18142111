@@ -1,6 +1,7 @@
 # TRIAD Framework
 
 **Relational Syntaxis (RS) · Epistemological Special Relativity of Measurement Agents (ESRM) · Epistemic Measurement Dynamics (EMD)**
+Canonical archived release (FINAL) is available on Zenodo: https://doi.org/10.5281/zenodo.18142110
 
 This repository hosts the canonical research corpus of the TRIAD framework, a formally constrained epistemic architecture addressing meaning, measurement, and authority in multi-intelligence environments.
 
